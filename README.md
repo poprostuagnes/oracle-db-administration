@@ -68,7 +68,7 @@ Utworzono dedykowane role bazodanowe dopasowane do struktury organizacyjnej inst
 ---
 
 ##  Dokumentacja Projektowa
-* `Sprawozdanie_projekt_2.pdf` — Kompletna, licząca ponad 150 stron dokumentacja inżynierska zawierająca pełne skrypty konfiguracyjne, modyfikacje plików sieciowych (`listener.ora`, `tnsnames.ora`), analizy logów RMAN oraz szczegółową instrukcję procedury wdrożeniowej i odtworzeniowej systemu.
+* `Sprawozdanie_projekt.pdf` — Kompletna, licząca ponad 150 stron dokumentacja inżynierska zawierająca pełne skrypty konfiguracyjne, modyfikacje plików sieciowych (`listener.ora`, `tnsnames.ora`), analizy logów RMAN oraz szczegółową instrukcję procedury wdrożeniowej i odtworzeniowej systemu.
 
 ---
 
